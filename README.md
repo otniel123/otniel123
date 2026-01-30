@@ -114,7 +114,7 @@ Full-Stack Developer at Philips 🏥 | Crafting healthcare management systems th
 
 <p>
 <a href="https://github.com/otniel123/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=otniel123&show_icons=true&theme=dark&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats-43zwyf7lg-otniel123s-projects.vercel.app/api?username=otniel123&show_icons=true&theme=dark&include_all_commits=true" />
 </a>
 <a href="https://github.com/otniel123/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otniel123&theme=dark&layout=compact&custom_title=Technologies&langs_count=9&card_width=320" />
