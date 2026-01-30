@@ -2,7 +2,7 @@
 
 **`System.out.pritln("FullStack Developer");`**
 
-Full-Stack Developer at Philips 🏥 | Crafting healthcare management systems that impact thousands of lives daily | Java, Spring Boot, React, JavaScript, Oracle PL/SQL | Oracle Cloud AI Foundations certified ☁️ | Experienced with Azure DevOps, Git, MySQL, PostgreSQL, Jenkins & Grafana | Software Engineering student passionate about clean code and scalable solutions | Open to international remote opportunities 🌎
+Full-Stack Developer at Philips 🏥 | Crafting financial management systems that impact thousands of lives daily | Java, Spring Boot, React, JavaScript, Oracle PL/SQL | Oracle Cloud AI Foundations certified ☁️ | Experienced with Azure DevOps, Git, MySQL, PostgreSQL, Jenkins & Grafana | Software Engineering student passionate about clean code and scalable solutions | Open to international remote opportunities 🌎
 
 <p align="left">
     <a href="https://www.linkedin.com/in/otniel-marques-07036a228/">
