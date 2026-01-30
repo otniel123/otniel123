@@ -106,8 +106,17 @@ Full-Stack Developer at Philips 🏥 | Crafting healthcare management systems th
  style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
 />
-
 <br/>
+<br/>
+<br/>
+
+## 🏆 Courses and Certifications
+
+Description   | Institution   | Year | Type
+--------- | --------- | ------ | ------
+🏅 Oracle Cloud AI Foundations | Oracle | 2025 | Certification
+🏅 Complete Java Courese | ProWay | 2024 | Course
+🏅 Entra21 | BluSoft | 2026 | Course
 <br/>
 
 ### 📊 Statistics
