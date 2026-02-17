@@ -40,7 +40,7 @@ Full-Stack Developer at Philips 🏥 | Crafting financial management systems tha
  title="React" 
  width="30px" 
  style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+ src="https://github.com/devicons/devicon/blob/v2.17.0/icons/angular/angular-original.svg" 
 />
 <img 
  align="left" 
