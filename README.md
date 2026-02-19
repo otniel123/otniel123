@@ -104,7 +104,7 @@ Full-Stack Developer at Philips 🏥 | Crafting financial management systems tha
  title="Azure DevOps"
  width="30px" 
  style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
+ src="https://github.com/devicons/devicon/blob/v2.17.0/icons/azuredevops/azuredevops-plain.svg" 
 />
 <br/>
 <br/>
